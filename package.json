@@ -1,0 +1,18 @@
+{
+  "name": "nodejs-assignment",
+  "version": "1.0.0",
+  "description": "This is a nodejs assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "author": "Mohamed Ayad",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
